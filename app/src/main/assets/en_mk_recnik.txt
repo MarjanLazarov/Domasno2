@@ -1,0 +1,11 @@
+apple|јаболко
+banana|банана
+car|автомобил
+dog|куче
+sample|пример
+morning|утро
+hello|здраво
+trousers|панталони
+father|татко
+desk|маса
+chair|столица
